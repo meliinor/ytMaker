@@ -11,9 +11,12 @@
     "url": "git+https://github.com/meliinor/ytMaker.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/meliinor/ytMaker/issues"
   },
-  "homepage": "https://github.com/meliinor/ytMaker#readme"
+  "homepage": "https://github.com/meliinor/ytMaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
